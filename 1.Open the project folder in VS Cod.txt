@@ -1,6 +1,0 @@
-1.Open the project folder in VS Code and open the terminal (`Ctrl+```).
-2.Run npm init -y.
-3.Run npm install vite @vitejs/plugin-react.
-4.Create vite.config.ts and add the config code.
-5.In index.html, remove the <script type="importmap">...</script> block.
-6.Run npx vite to start the project.
